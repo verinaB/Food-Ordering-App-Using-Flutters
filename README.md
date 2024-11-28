@@ -1,1 +1,2 @@
 # Food-Ordering-App-Using-Flutters
+The app allows users to plan daily meals within a specific budget by selecting food items from a pre-stored database. It includes features for saving, querying, and managing order plans, as well as performing add, delete, and update operations on the data. The project follows best practices in mobile app development by building functional and user-friendly application.
